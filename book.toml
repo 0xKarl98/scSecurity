@@ -1,0 +1,6 @@
+[book]
+authors = ["Karl"]
+language = "en"
+multilingual = false
+src = "src"
+title = "scSecurity"
